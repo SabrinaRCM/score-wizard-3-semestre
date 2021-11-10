@@ -4,8 +4,15 @@
 
 ### Tecnologias adotadas na solução
 
-### Contribuições individuais/pessoais
+* MySql Community;
+* Java 1.8;
+* Spring 2.3.0;
+* Maven/Gradle;
+* Hibernate;
+* Bootstrap 4;
+* Html5, JavaScript e CSS - Front end;
 
+### Contribuições individuais/pessoais
 
 ### Aprendizados Efetivos
 
